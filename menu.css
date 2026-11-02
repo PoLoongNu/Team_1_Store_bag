@@ -504,23 +504,6 @@ body {
   margin-bottom: 4px;
 }
 
-.nut-mua-ngay {
-  width: 100%;
-  padding: 12px;
-  background: #111111;
-  color: #ffffff;
-  border: none;
-  border-radius: 4px;
-  font-weight: 700;
-  cursor: pointer;
-  letter-spacing: 1px;
-  transition: background 0.2s ease;
-}
-
-.nut-mua-ngay:hover {
-  background: #c59d5f;
-}
-
 .o-nhap-hop-thoai {
   width: 100%;
   padding: 12px;
